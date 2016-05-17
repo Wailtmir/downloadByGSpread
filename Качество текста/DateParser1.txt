@@ -1,0 +1,63 @@
+DateParser.py:7:1: W191 indentation contains tabs
+DateParser.py:8:1: W191 indentation contains tabs
+DateParser.py:8:20: E231 missing whitespace after ','
+DateParser.py:9:1: W191 indentation contains tabs
+DateParser.py:10:1: W191 indentation contains tabs
+DateParser.py:10:1: W293 blank line contains whitespace
+DateParser.py:11:1: W191 indentation contains tabs
+DateParser.py:12:1: W191 indentation contains tabs
+DateParser.py:13:1: W191 indentation contains tabs
+DateParser.py:14:1: W191 indentation contains tabs
+DateParser.py:15:1: W191 indentation contains tabs
+DateParser.py:15:11: E225 missing whitespace around operator
+DateParser.py:16:1: W191 indentation contains tabs
+DateParser.py:16:4: E225 missing whitespace around operator
+DateParser.py:17:1: W191 indentation contains tabs
+DateParser.py:17:18: E231 missing whitespace after ','
+DateParser.py:18:1: W191 indentation contains tabs
+DateParser.py:19:1: W191 indentation contains tabs
+DateParser.py:20:1: W191 indentation contains tabs
+DateParser.py:21:1: W191 indentation contains tabs
+DateParser.py:21:4: E265 block comment should start with '# '
+DateParser.py:22:1: W191 indentation contains tabs
+DateParser.py:23:1: W191 indentation contains tabs
+DateParser.py:25:1: E302 expected 2 blank lines, found 1
+DateParser.py:25:20: E231 missing whitespace after ','
+DateParser.py:26:1: W191 indentation contains tabs
+DateParser.py:26:9: E225 missing whitespace around operator
+DateParser.py:27:1: W191 indentation contains tabs
+DateParser.py:27:2: E265 block comment should start with '# '
+DateParser.py:28:1: W191 indentation contains tabs
+DateParser.py:29:1: W191 indentation contains tabs
+DateParser.py:30:1: W191 indentation contains tabs
+DateParser.py:30:6: E225 missing whitespace around operator
+DateParser.py:31:1: W191 indentation contains tabs
+DateParser.py:31:17: E225 missing whitespace around operator
+DateParser.py:31:46: E225 missing whitespace around operator
+DateParser.py:31:51: E225 missing whitespace around operator
+DateParser.py:31:80: E225 missing whitespace around operator
+DateParser.py:31:80: E501 line too long (88 > 79 characters)
+DateParser.py:32:1: W191 indentation contains tabs
+DateParser.py:32:4: E265 block comment should start with '# '
+DateParser.py:33:1: W191 indentation contains tabs
+DateParser.py:34:1: W191 indentation contains tabs
+DateParser.py:34:19: E225 missing whitespace around operator
+DateParser.py:34:47: E225 missing whitespace around operator
+DateParser.py:34:54: E225 missing whitespace around operator
+DateParser.py:34:80: E501 line too long (87 > 79 characters)
+DateParser.py:34:82: E225 missing whitespace around operator
+DateParser.py:35:1: W191 indentation contains tabs
+DateParser.py:35:4: E265 block comment should start with '# '
+DateParser.py:36:1: W191 indentation contains tabs
+DateParser.py:37:1: W191 indentation contains tabs
+DateParser.py:37:19: E225 missing whitespace around operator
+DateParser.py:37:41: E225 missing whitespace around operator
+DateParser.py:37:62: E225 missing whitespace around operator
+DateParser.py:38:1: W191 indentation contains tabs
+DateParser.py:38:4: E265 block comment should start with '# '
+DateParser.py:39:1: W191 indentation contains tabs
+DateParser.py:40:1: W191 indentation contains tabs
+DateParser.py:41:1: W191 indentation contains tabs
+DateParser.py:42:1: W191 indentation contains tabs
+DateParser.py:43:1: W191 indentation contains tabs
+DateParser.py:44:1: W391 blank line at end of file

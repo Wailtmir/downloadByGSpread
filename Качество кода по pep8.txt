@@ -1,0 +1,375 @@
+D:\Мирошниченко\Проги для работы\Выгрузка отчётов по gspread>pep8 ReportsCollect
+or.py
+ReportsCollector.py:1:1: E265 block comment should start with '# '
+ReportsCollector.py:2:1: E265 block comment should start with '# '
+ReportsCollector.py:13:1: E302 expected 2 blank lines, found 1
+ReportsCollector.py:14:1: W191 indentation contains tabs
+ReportsCollector.py:14:1: W293 blank line contains whitespace
+ReportsCollector.py:15:1: W191 indentation contains tabs
+ReportsCollector.py:16:1: W191 indentation contains tabs
+ReportsCollector.py:17:1: W191 indentation contains tabs
+ReportsCollector.py:18:1: W191 indentation contains tabs
+ReportsCollector.py:19:1: W191 indentation contains tabs
+ReportsCollector.py:19:80: E501 line too long (112 > 79 characters)
+ReportsCollector.py:20:1: W191 indentation contains tabs
+ReportsCollector.py:21:1: W191 indentation contains tabs
+ReportsCollector.py:21:16: E225 missing whitespace around operator
+ReportsCollector.py:22:1: W191 indentation contains tabs
+ReportsCollector.py:23:1: W191 indentation contains tabs
+ReportsCollector.py:25:1: W191 indentation contains tabs
+ReportsCollector.py:26:1: W191 indentation contains tabs
+ReportsCollector.py:26:1: W293 blank line contains whitespace
+ReportsCollector.py:27:1: W191 indentation contains tabs
+ReportsCollector.py:28:1: W191 indentation contains tabs
+ReportsCollector.py:29:1: W191 indentation contains tabs
+ReportsCollector.py:30:1: W191 indentation contains tabs
+ReportsCollector.py:30:15: E231 missing whitespace after ','
+ReportsCollector.py:32:1: W191 indentation contains tabs
+ReportsCollector.py:33:1: W191 indentation contains tabs
+ReportsCollector.py:35:1: W191 indentation contains tabs
+ReportsCollector.py:36:1: W191 indentation contains tabs
+ReportsCollector.py:37:1: W191 indentation contains tabs
+ReportsCollector.py:37:12: E225 missing whitespace around operator
+ReportsCollector.py:38:1: W191 indentation contains tabs
+ReportsCollector.py:38:11: E225 missing whitespace around operator
+ReportsCollector.py:39:1: W191 indentation contains tabs
+ReportsCollector.py:40:1: W191 indentation contains tabs
+ReportsCollector.py:41:1: W191 indentation contains tabs
+ReportsCollector.py:41:27: E231 missing whitespace after ','
+ReportsCollector.py:42:1: W191 indentation contains tabs
+ReportsCollector.py:43:1: W191 indentation contains tabs
+ReportsCollector.py:44:1: W191 indentation contains tabs
+ReportsCollector.py:45:1: W191 indentation contains tabs
+ReportsCollector.py:47:1: W191 indentation contains tabs
+ReportsCollector.py:48:1: W191 indentation contains tabs
+ReportsCollector.py:49:1: W191 indentation contains tabs
+ReportsCollector.py:50:1: W191 indentation contains tabs
+ReportsCollector.py:50:15: E231 missing whitespace after ','
+ReportsCollector.py:51:1: W191 indentation contains tabs
+ReportsCollector.py:53:1: W191 indentation contains tabs
+ReportsCollector.py:54:1: W191 indentation contains tabs
+ReportsCollector.py:54:80: E501 line too long (87 > 79 characters)
+ReportsCollector.py:54:82: E231 missing whitespace after ','
+ReportsCollector.py:55:1: W191 indentation contains tabs
+ReportsCollector.py:56:1: W191 indentation contains tabs
+ReportsCollector.py:56:1: W293 blank line contains whitespace
+ReportsCollector.py:57:1: W191 indentation contains tabs
+ReportsCollector.py:57:25: E231 missing whitespace after ','
+ReportsCollector.py:57:28: E231 missing whitespace after ','
+ReportsCollector.py:59:1: W191 indentation contains tabs
+ReportsCollector.py:60:1: W191 indentation contains tabs
+ReportsCollector.py:60:15: E261 at least two spaces before inline comment
+ReportsCollector.py:60:15: E262 inline comment should start with '# '
+ReportsCollector.py:61:1: W191 indentation contains tabs
+ReportsCollector.py:62:1: W191 indentation contains tabs
+ReportsCollector.py:63:1: W191 indentation contains tabs
+ReportsCollector.py:63:8: E225 missing whitespace around operator
+ReportsCollector.py:63:17: E231 missing whitespace after ','
+ReportsCollector.py:64:1: W191 indentation contains tabs
+ReportsCollector.py:64:1: W293 blank line contains whitespace
+ReportsCollector.py:65:1: W191 indentation contains tabs
+ReportsCollector.py:66:1: W191 indentation contains tabs
+ReportsCollector.py:66:1: W293 blank line contains whitespace
+ReportsCollector.py:67:1: W191 indentation contains tabs
+ReportsCollector.py:68:1: W191 indentation contains tabs
+ReportsCollector.py:68:15: E231 missing whitespace after ','
+ReportsCollector.py:70:1: W191 indentation contains tabs
+ReportsCollector.py:71:1: W191 indentation contains tabs
+ReportsCollector.py:72:1: W191 indentation contains tabs
+ReportsCollector.py:72:5: E116 unexpected indentation (comment)
+ReportsCollector.py:72:5: E265 block comment should start with '# '
+ReportsCollector.py:73:1: W191 indentation contains tabs
+ReportsCollector.py:74:1: W191 indentation contains tabs
+ReportsCollector.py:75:1: W191 indentation contains tabs
+ReportsCollector.py:75:27: E231 missing whitespace after ','
+ReportsCollector.py:76:1: W191 indentation contains tabs
+ReportsCollector.py:77:1: W191 indentation contains tabs
+ReportsCollector.py:77:12: E225 missing whitespace around operator
+ReportsCollector.py:78:1: W191 indentation contains tabs
+ReportsCollector.py:78:38: E231 missing whitespace after ':'
+ReportsCollector.py:79:1: W191 indentation contains tabs
+ReportsCollector.py:79:11: E225 missing whitespace around operator
+ReportsCollector.py:81:1: W191 indentation contains tabs
+ReportsCollector.py:82:1: W191 indentation contains tabs
+ReportsCollector.py:82:20: E231 missing whitespace after ','
+ReportsCollector.py:82:28: E261 at least two spaces before inline comment
+ReportsCollector.py:83:1: W191 indentation contains tabs
+ReportsCollector.py:83:13: E225 missing whitespace around operator
+ReportsCollector.py:84:1: W191 indentation contains tabs
+ReportsCollector.py:84:1: W293 blank line contains whitespace
+ReportsCollector.py:85:1: W191 indentation contains tabs
+ReportsCollector.py:85:4: E265 block comment should start with '# '
+ReportsCollector.py:86:1: W191 indentation contains tabs
+ReportsCollector.py:86:4: E265 block comment should start with '# '
+ReportsCollector.py:86:80: E501 line too long (132 > 79 characters)
+ReportsCollector.py:87:1: W191 indentation contains tabs
+ReportsCollector.py:88:1: W191 indentation contains tabs
+ReportsCollector.py:91:1: W191 indentation contains tabs
+ReportsCollector.py:91:1: W293 blank line contains whitespace
+ReportsCollector.py:92:1: W191 indentation contains tabs
+ReportsCollector.py:92:4: E303 too many blank lines (3)
+ReportsCollector.py:93:1: W191 indentation contains tabs
+ReportsCollector.py:95:1: W191 indentation contains tabs
+ReportsCollector.py:96:1: W191 indentation contains tabs
+ReportsCollector.py:97:1: W191 indentation contains tabs
+ReportsCollector.py:98:1: W191 indentation contains tabs
+ReportsCollector.py:98:15: E231 missing whitespace after ','
+ReportsCollector.py:100:1: W191 indentation contains tabs
+ReportsCollector.py:102:1: W191 indentation contains tabs
+ReportsCollector.py:103:1: W191 indentation contains tabs
+ReportsCollector.py:103:80: E501 line too long (87 > 79 characters)
+ReportsCollector.py:103:82: E231 missing whitespace after ','
+ReportsCollector.py:104:1: W191 indentation contains tabs
+ReportsCollector.py:105:1: W191 indentation contains tabs
+ReportsCollector.py:105:49: E231 missing whitespace after ','
+ReportsCollector.py:107:1: W191 indentation contains tabs
+ReportsCollector.py:108:1: W191 indentation contains tabs
+ReportsCollector.py:109:1: W191 indentation contains tabs
+ReportsCollector.py:110:1: W191 indentation contains tabs
+ReportsCollector.py:111:1: W191 indentation contains tabs
+ReportsCollector.py:112:1: W191 indentation contains tabs
+ReportsCollector.py:113:1: W191 indentation contains tabs
+ReportsCollector.py:113:1: W293 blank line contains whitespace
+ReportsCollector.py:114:1: W191 indentation contains tabs
+ReportsCollector.py:114:80: E501 line too long (92 > 79 characters)
+ReportsCollector.py:114:87: E231 missing whitespace after ','
+ReportsCollector.py:115:1: W191 indentation contains tabs
+ReportsCollector.py:116:1: W191 indentation contains tabs
+ReportsCollector.py:116:41: E231 missing whitespace after ','
+ReportsCollector.py:116:50: W291 trailing whitespace
+ReportsCollector.py:117:1: W191 indentation contains tabs
+ReportsCollector.py:117:1: W293 blank line contains whitespace
+ReportsCollector.py:118:1: W191 indentation contains tabs
+ReportsCollector.py:118:23: E231 missing whitespace after ','
+ReportsCollector.py:118:26: E231 missing whitespace after ','
+ReportsCollector.py:119:1: W191 indentation contains tabs
+ReportsCollector.py:120:1: W191 indentation contains tabs
+ReportsCollector.py:120:3: E265 block comment should start with '# '
+ReportsCollector.py:121:1: W191 indentation contains tabs
+ReportsCollector.py:122:1: W191 indentation contains tabs
+ReportsCollector.py:122:3: E301 expected 1 blank line, found 0
+ReportsCollector.py:122:16: E231 missing whitespace after ','
+ReportsCollector.py:123:1: W191 indentation contains tabs
+ReportsCollector.py:123:5: E225 missing whitespace around operator
+ReportsCollector.py:124:1: W191 indentation contains tabs
+ReportsCollector.py:124:8: E225 missing whitespace around operator
+ReportsCollector.py:125:1: W191 indentation contains tabs
+ReportsCollector.py:125:6: E225 missing whitespace around operator
+ReportsCollector.py:126:1: W191 indentation contains tabs
+ReportsCollector.py:126:8: E701 multiple statements on one line (colon)
+ReportsCollector.py:126:11: E225 missing whitespace around operator
+ReportsCollector.py:127:1: W191 indentation contains tabs
+ReportsCollector.py:127:12: E225 missing whitespace around operator
+ReportsCollector.py:128:1: W191 indentation contains tabs
+ReportsCollector.py:129:1: W191 indentation contains tabs
+ReportsCollector.py:130:1: W191 indentation contains tabs
+ReportsCollector.py:131:1: W191 indentation contains tabs
+ReportsCollector.py:131:16: E231 missing whitespace after ','
+ReportsCollector.py:131:19: E231 missing whitespace after ','
+ReportsCollector.py:131:80: E501 line too long (82 > 79 characters)
+ReportsCollector.py:131:83: W291 trailing whitespace
+ReportsCollector.py:132:1: W191 indentation contains tabs
+ReportsCollector.py:132:34: E231 missing whitespace after ','
+ReportsCollector.py:132:42: E231 missing whitespace after ','
+ReportsCollector.py:132:49: E231 missing whitespace after ','
+ReportsCollector.py:132:57: E231 missing whitespace after ','
+ReportsCollector.py:133:1: W191 indentation contains tabs
+ReportsCollector.py:133:1: W293 blank line contains whitespace
+ReportsCollector.py:134:1: W191 indentation contains tabs
+ReportsCollector.py:135:1: W191 indentation contains tabs
+ReportsCollector.py:135:15: E225 missing whitespace around operator
+ReportsCollector.py:135:25: E231 missing whitespace after ','
+ReportsCollector.py:136:1: W191 indentation contains tabs
+ReportsCollector.py:136:17: E225 missing whitespace around operator
+ReportsCollector.py:136:27: E231 missing whitespace after ','
+ReportsCollector.py:137:1: W191 indentation contains tabs
+ReportsCollector.py:138:1: W191 indentation contains tabs
+ReportsCollector.py:138:17: E225 missing whitespace around operator
+ReportsCollector.py:139:1: W191 indentation contains tabs
+ReportsCollector.py:139:13: E225 missing whitespace around operator
+ReportsCollector.py:140:1: W191 indentation contains tabs
+ReportsCollector.py:141:1: W191 indentation contains tabs
+ReportsCollector.py:141:1: W293 blank line contains whitespace
+ReportsCollector.py:142:1: W191 indentation contains tabs
+ReportsCollector.py:143:1: W191 indentation contains tabs
+ReportsCollector.py:144:1: W191 indentation contains tabs
+ReportsCollector.py:145:1: W191 indentation contains tabs
+ReportsCollector.py:146:1: W191 indentation contains tabs
+ReportsCollector.py:146:1: W293 blank line contains whitespace
+ReportsCollector.py:147:1: W191 indentation contains tabs
+ReportsCollector.py:148:1: W191 indentation contains tabs
+ReportsCollector.py:149:1: W191 indentation contains tabs
+ReportsCollector.py:149:8: E203 whitespace before ':'
+ReportsCollector.py:150:1: W191 indentation contains tabs
+ReportsCollector.py:150:15: W291 trailing whitespace
+ReportsCollector.py:151:1: W191 indentation contains tabs
+ReportsCollector.py:151:1: W293 blank line contains whitespace
+ReportsCollector.py:152:1: W191 indentation contains tabs
+ReportsCollector.py:153:1: W191 indentation contains tabs
+ReportsCollector.py:154:1: W191 indentation contains tabs
+ReportsCollector.py:154:9: W291 trailing whitespace
+ReportsCollector.py:155:1: W191 indentation contains tabs
+ReportsCollector.py:155:15: W291 trailing whitespace
+ReportsCollector.py:156:1: W191 indentation contains tabs
+ReportsCollector.py:156:1: W293 blank line contains whitespace
+ReportsCollector.py:157:1: W191 indentation contains tabs
+ReportsCollector.py:157:4: E265 block comment should start with '# '
+ReportsCollector.py:158:1: W191 indentation contains tabs
+ReportsCollector.py:158:10: E224 tab after operator
+ReportsCollector.py:158:41: E231 missing whitespace after ','
+ReportsCollector.py:158:49: E231 missing whitespace after ','
+ReportsCollector.py:158:52: E231 missing whitespace after ','
+ReportsCollector.py:158:55: E231 missing whitespace after ','
+ReportsCollector.py:159:1: W191 indentation contains tabs
+ReportsCollector.py:160:1: W191 indentation contains tabs
+ReportsCollector.py:160:1: W293 blank line contains whitespace
+ReportsCollector.py:161:1: W191 indentation contains tabs
+ReportsCollector.py:161:78: E231 missing whitespace after ','
+ReportsCollector.py:161:80: E501 line too long (91 > 79 characters)
+ReportsCollector.py:162:1: W191 indentation contains tabs
+ReportsCollector.py:162:4: E116 unexpected indentation (comment)
+ReportsCollector.py:162:4: E265 block comment should start with '# '
+ReportsCollector.py:163:1: W191 indentation contains tabs
+ReportsCollector.py:163:4: E116 unexpected indentation (comment)
+ReportsCollector.py:163:4: E265 block comment should start with '# '
+ReportsCollector.py:164:1: W191 indentation contains tabs
+ReportsCollector.py:164:1: W293 blank line contains whitespace
+ReportsCollector.py:165:1: W191 indentation contains tabs
+ReportsCollector.py:165:1: W293 blank line contains whitespace
+ReportsCollector.py:166:1: W191 indentation contains tabs
+ReportsCollector.py:166:1: W293 blank line contains whitespace
+ReportsCollector.py:167:1: W191 indentation contains tabs
+ReportsCollector.py:167:1: W293 blank line contains whitespace
+ReportsCollector.py:168:1: W191 indentation contains tabs
+ReportsCollector.py:168:1: W293 blank line contains whitespace
+ReportsCollector.py:169:1: W191 indentation contains tabs
+ReportsCollector.py:169:1: W293 blank line contains whitespace
+ReportsCollector.py:170:1: W191 indentation contains tabs
+ReportsCollector.py:170:1: W293 blank line contains whitespace
+ReportsCollector.py:171:1: E303 too many blank lines (7)
+ReportsCollector.py:171:1: W191 indentation contains tabs
+ReportsCollector.py:171:1: W293 blank line contains whitespace
+ReportsCollector.py:171:1: W391 blank line at end of file
+
+
+D:\Мирошниченко\Проги для работы\Выгрузка отчётов по gspread>pep8 DateParser.py
+DateParser.py:4:1: E302 expected 2 blank lines, found 1
+DateParser.py:5:1: W191 indentation contains tabs
+DateParser.py:6:1: W191 indentation contains tabs
+DateParser.py:6:20: E231 missing whitespace after ','
+DateParser.py:7:1: W191 indentation contains tabs
+DateParser.py:8:1: W191 indentation contains tabs
+DateParser.py:8:1: W293 blank line contains whitespace
+DateParser.py:9:1: W191 indentation contains tabs
+DateParser.py:10:1: W191 indentation contains tabs
+DateParser.py:11:1: W191 indentation contains tabs
+DateParser.py:12:1: W191 indentation contains tabs
+DateParser.py:13:1: W191 indentation contains tabs
+DateParser.py:13:11: E225 missing whitespace around operator
+DateParser.py:14:1: W191 indentation contains tabs
+DateParser.py:14:4: E225 missing whitespace around operator
+DateParser.py:15:1: W191 indentation contains tabs
+DateParser.py:15:18: E231 missing whitespace after ','
+DateParser.py:16:1: W191 indentation contains tabs
+DateParser.py:17:1: W191 indentation contains tabs
+DateParser.py:18:1: W191 indentation contains tabs
+DateParser.py:19:1: W191 indentation contains tabs
+DateParser.py:19:4: E265 block comment should start with '# '
+DateParser.py:20:1: W191 indentation contains tabs
+DateParser.py:21:1: W191 indentation contains tabs
+DateParser.py:22:1: E302 expected 2 blank lines, found 0
+DateParser.py:22:20: E231 missing whitespace after ','
+DateParser.py:23:1: W191 indentation contains tabs
+DateParser.py:23:9: E225 missing whitespace around operator
+DateParser.py:24:1: W191 indentation contains tabs
+DateParser.py:24:2: E265 block comment should start with '# '
+DateParser.py:25:1: W191 indentation contains tabs
+DateParser.py:26:1: W191 indentation contains tabs
+DateParser.py:27:1: W191 indentation contains tabs
+DateParser.py:27:6: E225 missing whitespace around operator
+DateParser.py:28:1: W191 indentation contains tabs
+DateParser.py:28:17: E225 missing whitespace around operator
+DateParser.py:28:46: E225 missing whitespace around operator
+DateParser.py:28:51: E225 missing whitespace around operator
+DateParser.py:28:80: E225 missing whitespace around operator
+DateParser.py:28:80: E501 line too long (88 > 79 characters)
+DateParser.py:29:1: W191 indentation contains tabs
+DateParser.py:29:4: E265 block comment should start with '# '
+DateParser.py:30:1: W191 indentation contains tabs
+DateParser.py:31:1: W191 indentation contains tabs
+DateParser.py:31:19: E225 missing whitespace around operator
+DateParser.py:31:47: E225 missing whitespace around operator
+DateParser.py:31:54: E225 missing whitespace around operator
+DateParser.py:31:80: E501 line too long (87 > 79 characters)
+DateParser.py:31:82: E225 missing whitespace around operator
+DateParser.py:32:1: W191 indentation contains tabs
+DateParser.py:32:4: E265 block comment should start with '# '
+DateParser.py:33:1: W191 indentation contains tabs
+DateParser.py:34:1: W191 indentation contains tabs
+DateParser.py:34:19: E225 missing whitespace around operator
+DateParser.py:34:41: E225 missing whitespace around operator
+DateParser.py:34:62: E225 missing whitespace around operator
+DateParser.py:35:1: W191 indentation contains tabs
+DateParser.py:35:4: E265 block comment should start with '# '
+DateParser.py:36:1: W191 indentation contains tabs
+DateParser.py:37:1: W191 indentation contains tabs
+DateParser.py:38:1: W191 indentation contains tabs
+DateParser.py:39:1: W191 indentation contains tabs
+DateParser.py:40:1: W191 indentation contains tabs
+DateParser.py:41:1: W391 blank line at end of file
+
+D:\Мирошниченко\Проги для работы\Выгрузка отчётов по gspread>
+
+
+
+D:\Мирошниченко\Проги для работы\Выгрузка отчётов по gspread>pep8 MainProgramm.p
+y
+MainProgramm.py:5:1: E302 expected 2 blank lines, found 1
+MainProgramm.py:6:1: W191 indentation contains tabs
+MainProgramm.py:7:1: W191 indentation contains tabs
+MainProgramm.py:8:1: W191 indentation contains tabs
+MainProgramm.py:8:33: E231 missing whitespace after ','
+MainProgramm.py:9:1: W191 indentation contains tabs
+MainProgramm.py:9:31: E231 missing whitespace after ','
+MainProgramm.py:11:1: E302 expected 2 blank lines, found 1
+MainProgramm.py:12:1: W191 indentation contains tabs
+MainProgramm.py:13:1: W191 indentation contains tabs
+MainProgramm.py:13:1: W293 blank line contains whitespace
+MainProgramm.py:14:1: E302 expected 2 blank lines, found 1
+MainProgramm.py:15:1: W191 indentation contains tabs
+MainProgramm.py:16:1: W191 indentation contains tabs
+MainProgramm.py:16:1: W293 blank line contains whitespace
+MainProgramm.py:21:21: E231 missing whitespace after ','
+MainProgramm.py:23:20: E231 missing whitespace after ','
+MainProgramm.py:23:25: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:23:27: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:23:75: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:23:77: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:23:80: E501 line too long (82 > 79 characters)
+MainProgramm.py:25:23: E231 missing whitespace after ','
+MainProgramm.py:25:28: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:25:30: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:25:57: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:25:59: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:27:30: E231 missing whitespace after ','
+MainProgramm.py:27:35: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:27:37: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:27:63: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:27:65: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:29:23: E231 missing whitespace after ','
+MainProgramm.py:30:35: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:30:37: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:31:32: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:31:34: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:33:29: E231 missing whitespace after ','
+MainProgramm.py:36:21: E231 missing whitespace after ','
+MainProgramm.py:39:26: E231 missing whitespace after ','
+MainProgramm.py:42:28: E231 missing whitespace after ','
+MainProgramm.py:44:16: E231 missing whitespace after ','
+MainProgramm.py:45:19: E231 missing whitespace after ','
+MainProgramm.py:45:21: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:45:23: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:46:28: E231 missing whitespace after ','
+MainProgramm.py:46:30: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:46:32: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:48:16: W292 no newline at end of file

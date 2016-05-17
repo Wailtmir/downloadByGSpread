@@ -1,0 +1,46 @@
+MainProgramm.py:7:1: W191 indentation contains tabs
+MainProgramm.py:8:1: W191 indentation contains tabs
+MainProgramm.py:9:1: W191 indentation contains tabs
+MainProgramm.py:9:33: E231 missing whitespace after ','
+MainProgramm.py:10:1: W191 indentation contains tabs
+MainProgramm.py:10:31: E231 missing whitespace after ','
+MainProgramm.py:12:1: E302 expected 2 blank lines, found 1
+MainProgramm.py:13:1: W191 indentation contains tabs
+MainProgramm.py:15:1: E302 expected 2 blank lines, found 1
+MainProgramm.py:16:1: W191 indentation contains tabs
+MainProgramm.py:17:1: W191 indentation contains tabs
+MainProgramm.py:17:1: W293 blank line contains whitespace
+MainProgramm.py:22:21: E231 missing whitespace after ','
+MainProgramm.py:24:20: E231 missing whitespace after ','
+MainProgramm.py:24:25: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:24:27: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:24:75: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:24:77: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:24:80: E501 line too long (82 > 79 characters)
+MainProgramm.py:26:23: E231 missing whitespace after ','
+MainProgramm.py:26:28: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:26:30: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:26:57: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:26:59: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:28:30: E231 missing whitespace after ','
+MainProgramm.py:28:35: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:28:37: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:28:63: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:28:65: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:30:23: E231 missing whitespace after ','
+MainProgramm.py:31:35: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:31:37: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:32:32: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:32:34: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:34:29: E231 missing whitespace after ','
+MainProgramm.py:37:21: E231 missing whitespace after ','
+MainProgramm.py:40:26: E231 missing whitespace after ','
+MainProgramm.py:43:28: E231 missing whitespace after ','
+MainProgramm.py:45:16: E231 missing whitespace after ','
+MainProgramm.py:46:19: E231 missing whitespace after ','
+MainProgramm.py:46:21: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:46:23: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:47:28: E231 missing whitespace after ','
+MainProgramm.py:47:30: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:47:32: E251 unexpected spaces around keyword / parameter equals
+MainProgramm.py:49:16: W292 no newline at end of file
